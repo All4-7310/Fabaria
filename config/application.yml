@@ -1,0 +1,9 @@
+DATABASE_URL: postgres://decidim_app:Password1@localhost/decidim_prod
+
+SECRET_KEY_BASE: 694da368960555245bb82a084a59a0d4f2cb6b2fb9f54839384687fc9373b7661bec312259ef0415ab0a914c49043e91c118ed8d2c593881de74bd653309ae33
+
+SMTP_USERNAME: fabaria.ch@gmail.com
+SMTP_PASSWORD: qdkodefddqlqwaee
+SMTP_ADDRESS: smtp.gmail.com
+SMTP_DOMAIN: gmail.com
+
